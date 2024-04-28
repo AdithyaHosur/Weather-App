@@ -1,0 +1,1 @@
+Using openweathermap API and YouTube, I created a small weather app for your location. It has the ability to check the location your device is currently in and give you the specific details of weather in that location.
